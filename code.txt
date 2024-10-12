@@ -1,0 +1,16 @@
+//asssignment for github 
+describing a project for blogs  website 
+
+
+features: 
+navbar
+hero page
+post page to add delete and comment on post
+
+
+
+issue : issue while craeting repositry and project is sometimes branch command dosent work and shows error that makes oour push origin main command not work
+
+
+
+
